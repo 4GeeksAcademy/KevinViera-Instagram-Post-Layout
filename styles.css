@@ -1,0 +1,70 @@
+body {
+   background-color: black;
+   margin-right: 400px;
+   margin-left: 400px;
+   margin-bottom: 0px;
+}
+.post{
+    border: 1px solid #ccc;
+    background-color: #fff;
+    overflow: hidden;
+    margin: 20px;
+    border-radius: 0px;
+}
+.post-header {
+    display: flex;
+    font-family: roboto, sans-serif;
+    padding: 10px;
+}
+.post-icons {
+    font-size: 80px;
+    display: flex;
+    padding: 0px;
+}
+.fa-solid {
+    font-size: 80px;
+    padding-top: 22px;
+    padding-left: 770px;
+}
+.fa-brands {
+    font-size: 80px;
+    padding-top: 22px;
+    padding-left: 20px;
+}
+.rigotext {
+    list-style: none;
+    padding-top: 0%;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+.fa-heart{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.fa-comment{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.fa-paper-plane{
+    padding-left: 15px;
+    padding-top: 30px;
+}
+.fa-bookmark{
+    padding-left: 650px;
+    padding-top: 30px;
+}
+.liked{
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 35px;
+}
+.description{
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 35px;
+    
+}
+.post-body {
+    font-family: roboto, sans-serif;
+}
